@@ -1,4 +1,5 @@
-﻿using System;
+// 1 вариант. №1
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
